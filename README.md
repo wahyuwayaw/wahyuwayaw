@@ -42,10 +42,10 @@
 ---
 
 ## Kontak
-- 📧 Email: wahyu.sugiarto@example.com  
+- 📧 Email: wayawairdrop@gmail.com 
 - 🔗 GitHub: [github.com/wahyuwayaw](https://github.com/wahyuwayaw)  
-- 💼 LinkedIn: (tambahkan kalau sudah ada)  
-- 🌍 Portofolio / Website: (tambahkan kalau ada)  
+- 💼 LinkedIn:  
+- 🌍 Portofolio / Website: wayaw.free.nf
 
 ---
 
